@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4485" started-at="2020-12-27T05:29:38Z" finished-at="2020-12-27T05:29:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4485" started-at="2020-12-27T05:29:38Z" finished-at="2020-12-27T05:29:42Z">
+      <class name="LibraryAPI.LibraryManagementMyPractice">
+        <test-method status="PASS" signature="addBooks(java.lang.String, int, java.lang.String)[pri:0, instance:LibraryAPI.LibraryManagementMyPractice@68e5eea7]" name="addBooks" duration-ms="4065" started-at="2020-12-27T10:59:38Z" data-provider="BookInfo" finished-at="2020-12-27T10:59:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ashish]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBooks -->
+        <test-method status="PASS" signature="addBooks(java.lang.String, int, java.lang.String)[pri:0, instance:LibraryAPI.LibraryManagementMyPractice@68e5eea7]" name="addBooks" duration-ms="185" started-at="2020-12-27T10:59:42Z" data-provider="BookInfo" finished-at="2020-12-27T10:59:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1002]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Parker]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBooks -->
+        <test-method status="PASS" signature="addBooks(java.lang.String, int, java.lang.String)[pri:0, instance:LibraryAPI.LibraryManagementMyPractice@68e5eea7]" name="addBooks" duration-ms="192" started-at="2020-12-27T10:59:42Z" data-provider="BookInfo" finished-at="2020-12-27T10:59:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Python]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1003]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lisa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBooks -->
+        <test-method status="PASS" signature="getBooks()[pri:1, instance:LibraryAPI.LibraryManagementMyPractice@68e5eea7]" name="getBooks" duration-ms="2" started-at="2020-12-27T10:59:42Z" finished-at="2020-12-27T10:59:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBooks -->
+      </class> <!-- LibraryAPI.LibraryManagementMyPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

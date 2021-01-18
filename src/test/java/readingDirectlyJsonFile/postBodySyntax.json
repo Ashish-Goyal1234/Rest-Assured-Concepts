@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": -37.383494,
+    "lng": 83.427362
+  },
+  "accuracy": 50,
+  "name": "Ashish Rajesh Goyal",
+  "phone_number": "(+91) 983 893 3937",
+  "address": "29, sinhgad layout, cohen 09",
+  "types": [
+    "shoe park",
+    "shop"
+  ],
+  "website": "http://gmail.com",
+  "language": "Hindi-IN"
+}
